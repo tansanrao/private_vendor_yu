@@ -83,7 +83,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/vendor/lib64/libvoice-svc.so:system/vendor/lib64/libvoice-svc.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libvcel.so:system/vendor/lib64/libvcel.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/lib-imss.so:system/vendor/lib64/lib-imss.so \
-    vendor/yu/lettuce/proprietary/vendor/lib64/libfrsdk.so:system/vendor/lib64/frsdkso \
+    vendor/yu/lettuce/proprietary/vendor/lib64/libfrsdk.so:system/vendor/lib64/frsdk.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/lib-imsvt.so:system/vendor/lib64/lib-imsvt.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/lib-imsxml.so:system/vendor/lib64/lib-imsxml.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/egl/eglsubAndroid.so:system/vendor/lib64/egl/eglsubAndroid.so \
